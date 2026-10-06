@@ -6,7 +6,7 @@ Script ini mematikan/menyalakan service-nya lewat `launchctl`.
 ## Install
 
 ```bash
-git clone <URL-REPO> gp-toggle
+git clone https://github.com/Alianama/GlobalProtect-Toggle.git gp-toggle
 cd gp-toggle
 sudo install -m 755 gp /usr/local/bin/gp
 ```
